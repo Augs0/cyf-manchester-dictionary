@@ -27,13 +27,18 @@ The way you work with others through GitHub will differ from place to place, but
 2. Make changes within your local repo. This will just be working with Git as you would with your own project, that being: you set the remote branch, use `git add`, `git commit -m 'message'` and `git push` to send your changes to the repo.
 3. Make a pull request from your repo
    ![pull request button location](images/prcap.png)
-4. Here's an example of what you will see when you open the pull request. Your repo will be on the right, and the one you are requesting to push to on the left ![pull request with repo names and base location](images/examplepr.png). Make sure the base is 'develop' so that you push to the develop branch.
+4. Here's an example of what you will see when you open the pull request. Your repo will be on the right, and the one you are requesting to push to on the left
+   ![pull request with repo names and base location](images/examplepr.png)
+   Make sure the base is 'develop' so that you push to the develop branch.
 5. Once you make your pull request, you will see a menu to the right that looks like this. I have circled in blue the most relevant areas.
+
    ![pull request menu](images/prmenu.png)
+
    -Reviewers: the people who are reviewing your pull request. You can request certain people or groups to look at the pull request, or people can assign themselves if they want to review the pull request.
    -Assignees: linked to 'issues' which are basically tasks or problems that need to be dealt with on the project. If you are the 'assignee', you're the person working on the project. For pull requests, you don't need to worry too much about this section.
    -Labels: we will use labels to try and track what kind of work is being done. If you click the cog symbol, you will see a list of possible labels to use. Be sure to try and do this to keep things organized. Labels can be added, removed and changed at any time.
    -Linked issues: if an 'issue' is open, it will remain open until closed manually by somebody or until a change is made that resolves the issue. If you link an issue, once your code is accepted and merged, the issue will automatically close. See more about 'issues' in the next section.
+
 6. Once the pull request has been reviewed and approved by at least three people, you can click the button at the bottom that is labelled with merge. When you click this, your code is added to the original project. Congratulations!
 
 ## What are issues on GitHub?
