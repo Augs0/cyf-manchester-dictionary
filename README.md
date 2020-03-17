@@ -35,8 +35,11 @@ The way you work with others through GitHub will differ from place to place, but
    ![pull request menu](images/prmenu.png)
 
    - Reviewers: the people who are reviewing your pull request. You can request certain people or groups to look at the pull request, or people can assign themselves if they want to review the pull request.
-     -Assignees: linked to 'issues' which are basically tasks or problems that need to be dealt with on the project. If you are the 'assignee', you're the person working on the project. For pull requests, you don't need to worry too much about this section.
+   
+   - Assignees: linked to 'issues' which are basically tasks or problems that need to be dealt with on the project. If you are the 'assignee', you're the person working on the project. For pull requests, you don't need to worry too much about this section.
+   
    - Labels: we will use labels to try and track what kind of work is being done. If you click the cog symbol, you will see a list of possible labels to use. Be sure to try and do this to keep things organized. Labels can be added, removed and changed at any time.
+   
    - Linked issues: if an 'issue' is open, it will remain open until closed manually by somebody or until a change is made that resolves the issue. If you link an issue, once your code is accepted and merged, the issue will automatically close. See more about 'issues' in the next section.
 
 6. Once the pull request has been reviewed and approved by at least three people, you can click the button at the bottom that is labelled with merge. When you click this, your code is added to the original project. Congratulations!
