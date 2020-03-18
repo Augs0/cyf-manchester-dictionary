@@ -1,5 +1,8 @@
 # Welcome to the CYF Manchester Dictionary Project!
 
+Here's a brief introduction to the project: \
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/10ZVayufmd0/0.jpg)](https://www.youtube.com/watch?v=10ZVayufmd0)
+
 ## The aim of the project
 
 During the course, you will be learning to use Git. Especially at the beginning, it can be hard to understand the process. You will get lots of opportunities to use your new Git skills on the course, but this project will provide extra, optional practice.
