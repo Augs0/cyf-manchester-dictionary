@@ -1,16 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="style.css" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CYF Manchester Dictionary Project</title>
   </head>
   <body>
-    <ul>
-      <li>
-        HTML - HTML stands for Hypertext Markup Language. It is used to create
-        the basic structure of a webpage
-      </li>
-    </ul>
+    <div class="card mb-3" style="max-width: 80%;">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img
+            src="https://codeyourfuture.io/wp-content/uploads/2019/03/cyf_brand.png"
+            alt="CYF"
+            class="card-img logo"
+          />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">CYF dictionary</h5>
+            <p class="card-text">
+              This a collaborative dictionary made for and by the team of CYF
+              students and mentors to help everyone new to Software Development.
+              Learn and add new words. Github repo here
+              <a
+                href="https://github.com/Augs0/cyf-manchester-dictionary/"
+                target="_blank"
+                >CYF Dictionary Repo</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Word</th>
+          <th scope="col">Meaning</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>HTML</td>
+          <td>
+            HTML stands for Hypertext Markup Language. It is used to create the
+            basic structure of a webpage
+          </td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Debugging</td>
+          <td>Debugging is the process of identifying and removing errors in written code</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Hard-coded numbers</td>
+          <td>Hard-coded number is a term used to designate literal numbers (not calculted or referenced amounts such as variables or dependent on variables for example)</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>HTTP</td>
+          <td>HTTP stands for HyperText Transfer Protocol, it is the underlying
+        protocol used by the World Wide Web.</td>
+        </tr>
+         <tr>
+          <th scope="row">3</th>
+          <td>Refactoring</td>
+          <td>Code refactoring is the process of improving existing code through restructuring, editing and cleaning up while maintaining the exact same behaviour. </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+      integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+      crossorigin="anonymous"
+    ></script>
+
   </body>
 </html>
