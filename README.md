@@ -1,4 +1,4 @@
-# Welcome to the CYF Manchester Dictionary Project!
+# Welcome to the CYF Dictionary Project!
 
 Here's a brief introduction to the project: \
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/10ZVayufmd0/0.jpg)](https://www.youtube.com/watch?v=10ZVayufmd0)
@@ -21,7 +21,7 @@ The way you work with others through GitHub will differ from place to place, but
 
 - We will have two branches. One will be `master`, which will hold our most stable version. The other will be `develop` which will be our working, in-progress version. When you make your pull request to the repo, do it to the `develop` branch and not the `master` branch.
 - Fork from the `cyf-manchester-dictionary' so you have your own repo to push to. You should make changes locally on your machine, push to YOUR forked version of the original repo, then do a pull request to the original repo to get your changes approved (see the next section, 'guide to collaborating' for detailed steps).
-- The rule I'm putting in place to try and get some agreement with changes is that the pull request needs to be reviewed and approved by at least three people before the change is merged. If you have any objections, be sure to let the person know why and offer your opinion, thoughts and feedback.
+- The rule I'm putting in place to try and get some agreement with changes is that the pull request needs to be reviewed and approved by at least two people before the change is merged. If you have any objections, be sure to let the person know why and offer your opinion, thoughts and feedback.
 
 ## Guide to collaborating
 
